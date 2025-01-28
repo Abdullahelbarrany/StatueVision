@@ -1,5 +1,6 @@
 
 # Statue Vision 
+## Description
 
 StatueVision is an AI-powered museum guide designed to identify and provide information about statues in a Jordanian museum. The system is built using a YOLO-based object detection model trained on museum statues and deployed via a Flask API. The API seamlessly integrates with a Flutter mobile application to allow users to capture an image of a statue and receive detailed information retrieved from a Firebase Firestore database.
 
